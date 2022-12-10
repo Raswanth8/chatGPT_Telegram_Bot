@@ -20,8 +20,12 @@ python server.py
 python bot.py
 ```
 
-# Inspiration
+#### Response
 
-```
+![response1](https://github.com/Raswanth8/chatGPT_Telegram_Bot/blob/main/images/photo_2022-12-10_13-26-24.jpg)
+![response1](https://github.com/Raswanth8/chatGPT_Telegram_Bot/blob/main/images/photo_2022-12-10_13-26-32.jpg)
+
+#### Inspiration
  [whatsapp gpt](https://github.com/danielgross/whatsapp-gpt)
-```
+
+
