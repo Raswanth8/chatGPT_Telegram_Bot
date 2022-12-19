@@ -23,6 +23,8 @@ python bot.py
 #### Inspiration
  [whatsapp gpt](https://github.com/danielgross/whatsapp-gpt)
  
- <blockquote class="twitter-tweet"><p lang="cy" dir="ltr">Telegram + ChatGPT 💻⚒️<a href="https://twitter.com/hashtag/ChatGPT?src=hash&amp;ref_src=twsrc%5Etfw">#ChatGPT</a> <a href="https://t.co/G8X2wn9wBH">pic.twitter.com/G8X2wn9wBH</a></p>&mdash; Raswanth Rajangam (@0xRachoo) <a href="https://twitter.com/0xRachoo/status/1601513343046803458?ref_src=twsrc%5Etfw">December 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+> Telegram + ChatGPT 💻⚒️[#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/G8X2wn9wBH](https://t.co/G8X2wn9wBH)
+> 
+> — Raswanth Rajangam (@0xRachoo) [December 10, 2022](https://twitter.com/0xRachoo/status/1601513343046803458?ref_src=twsrc%5Etfw)
 
